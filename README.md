@@ -13,3 +13,9 @@ This project is licensed under the [Unlicense](UNLICENSE).
 ## Acknowledgements
 
 Based on: <https://github.com/Azlaroc/manageengine-sdp>
+
+## References
+
+<https://www.manageengine.com/products/service-desk/sdpod-v3-api/>
+
+<https://help.sdpondemand.com/home>
