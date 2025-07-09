@@ -1,4 +1,5 @@
-#!/usr/bin/env bash
+#!/usr/bin/env sh
+
 IMAGE_TAG="${IMAGE_TAG:-mesd}"
 
 if [ ! -d "$(pwd)/local" ]; then
